@@ -20,36 +20,36 @@ body {
 	margin-bottom: 25px;
 	overflow: hidden;
 }
-.user-profile__h1 {
+.user-profile__name{
 	margin: 0;
 	font-size: 21px;
 }
-.user-profile__sub-h1 {
+.user-profile__location {
 	margin: 0 0 33px 0;
 	font-family: roboto-light;
 	font-size: 13px;
 	color: #9FA1A3;
 }
-.user-profile__table {
+.user-profile__info {
 	width: 220px;
 	margin: auto;
 	border-collapse: collapse;
 	font-size: 13px;
 }
-.user-profile__table-item {
+.user-profile__info-item {
 	height: 51px;
 	color: #696C70;
 	border-bottom: 1px solid #E5E5E5;
 }
-.user-profile__table-item:last-child {
+.user-profile__info-item:last-child {
 	height: 58px;
 	border-bottom: none;
 }
-.user-profile__table-key {
+.user-profile__info-key {
 	text-align: left;
 	font-family: roboto-medium;
 }
-.user-profile__table-value {
+.user-profile__info-value {
 	text-align: right;
 }
 
